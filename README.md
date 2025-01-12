@@ -16,7 +16,7 @@ CA:CjiYkyHjNVrpEUoPRtFmmyYRnbwVyzNgNuLt2SAkpump
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Chronai-team/chronai.git
+git clone https://github.com/Chronai-team/chron-ai.git
 cd chronai
 ```
 

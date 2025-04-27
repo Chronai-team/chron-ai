@@ -3,7 +3,7 @@
 # Chron AI Analysis Tool
 
 Chron AI is a specialized tool for analyzing and verifying the authenticity of AI projects on the Solana blockchain. It can detect whether projects have genuine AI functionality implementation, rather than just placeholder code.
-CA:CjiYkyHjNVrpEUoPRtFmmyYRnbwVyzNgNuLt2SAkpump
+CA:8Rp67xYeTKLExrKqWjqssJarW9hFkkR997kixg7abonk
 
 ## Features
 
